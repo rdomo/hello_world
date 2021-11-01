@@ -1,2 +1,5 @@
 # hello_world
-my work
+
+Hello people!
+I want to learn programming)
+Help me, please!!!
